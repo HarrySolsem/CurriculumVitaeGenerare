@@ -1,0 +1,12 @@
+DROP TABLE IF EXISTS PersonalInfo;
+DROP TABLE IF EXISTS Education;
+DROP TABLE IF EXISTS WorkExperience;
+DROP TABLE IF EXISTS Skills;
+DROP TABLE IF EXISTS Projects;
+DROP TABLE IF EXISTS Certifications;
+DROP TABLE IF EXISTS ProfessionalSummary;
+DROP TABLE IF EXISTS KeyRolesAndResults;
+DROP TABLE IF EXISTS FeedbackManagers;
+DROP TABLE IF EXISTS FeedbackColleagues;
+DROP TABLE IF EXISTS OtherWorkExperience;
+DROP TABLE IF EXISTS Voluntering;
