@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVGenerare.UI", "CVGenerare.UI.csproj", "{1FB3F480-237B-4316-A4A9-CEDB41A0BABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinwordGenerator", "..\WinwordGenerator\WinwordGenerator.csproj", "{4623E893-E152-4514-85C3-58AF2B6F240A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonResume", "..\JsonResume\JsonResume.csproj", "{CFF2E44C-52E0-41EB-902A-560054EC20F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{1FB3F480-237B-4316-A4A9-CEDB41A0BABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FB3F480-237B-4316-A4A9-CEDB41A0BABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FB3F480-237B-4316-A4A9-CEDB41A0BABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4623E893-E152-4514-85C3-58AF2B6F240A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4623E893-E152-4514-85C3-58AF2B6F240A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4623E893-E152-4514-85C3-58AF2B6F240A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4623E893-E152-4514-85C3-58AF2B6F240A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF2E44C-52E0-41EB-902A-560054EC20F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF2E44C-52E0-41EB-902A-560054EC20F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF2E44C-52E0-41EB-902A-560054EC20F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF2E44C-52E0-41EB-902A-560054EC20F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

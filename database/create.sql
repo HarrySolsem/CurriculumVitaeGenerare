@@ -1,3 +1,6 @@
+use CVGenerare;
+DROP DATABASE CVGenerare;
+
 CREATE DATABASE CVGenerare;
 
 use CVGenerare;
